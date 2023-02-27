@@ -2,4 +2,6 @@
 
 Teste VIM
 
-Arquivo modificado!.
+Arquivo modificado!
+
+Modificação após o commit 1.
